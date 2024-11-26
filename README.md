@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrfcg3
-- 🌱 I’m chemical engineer and FS Dev
+- Chemical, Electrical and Computer Engineer
 
 
 <!---
